@@ -1,0 +1,1680 @@
+{
+  "m64446e_230110_151103": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230106_105416/4_D01/m64446e_230110_151103.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "hifi_ctime": "2023-01-18 01:54:34",
+    "runwell": "20230106-64446e-D01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64446e_230211_052225": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230211_050948/1_A01/m64446e_230211_052225.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "done",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230211-64446e-A01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "70285",
+      "shellname": "run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-21 14:57:20",
+    "runwell": "20230211-64446e-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230211-64446e-A01/m64446e_230211_052225"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230211-64446e-A01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230211-64446e-A01/Result"
+      }
+    }
+  },
+  "m64144_230214_111534": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230210_055332/4_D01/m64144_230214_111534.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64144-D01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "70324",
+      "shellname": "run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-16 12:19:47",
+    "runwell": "20230210-64144-D01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64144-D01/m64144_230214_111534"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64144-D01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64144-D01/Result"
+      }
+    }
+  },
+  "m64447e_230218_204651": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230213_035423/5_E01/m64447e_230218_204651.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230213-64447e-E01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "70325",
+      "shellname": "run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-21 16:29:45",
+    "runwell": "20230213-64447e-E01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230213-64447e-E01/m64447e_230218_204651"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230213-64447e-E01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64447e_230218_204651"
+      }
+    }
+  },
+  "m64144_230213_001750": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230210_055332/3_C01/m64144_230213_001750.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64144-C01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "70326",
+      "shellname": "run_ccs.sh"
+    },
+    "hifi_ctime": "2023-01-18 01:54:34",
+    "runwell": "20230210-64144-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64144-C01/m64144_230213_001750"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64144-C01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64144-C01/Result"
+      }
+    }
+  },
+  "m64173_230221_054647": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230218_094014/3_C01/m64173_230221_054647.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-C01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "71408",
+      "shellname": "run_ccs.sh",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-C01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-23 06:34:29",
+    "runwell": "20230218-64173-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-C01/m64173_230221_054647"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-C01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64173_230221_054647"
+      }
+    }
+  },
+  "m64181_230221_082204": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230218_134000/3_C01/m64181_230221_082204.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-C01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "71460",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-C01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-23 10:09:44",
+    "runwell": "20230218-64181-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-C01/m64181_230221_082204"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-C01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64181_230221_082204"
+      }
+    }
+  },
+  "m64447e_230221_191811": {
+    "code": 0,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230220_093857/2_B01/m64447e_230221_191811.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "hifi_ctime": "2023-02-23 20:16:44",
+    "runwell": "20230220-64447e-B01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64144_230221_170941": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230217_111027/4_D01/m64144_230221_170941.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230217-64144-D01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "71973",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230217-64144-D01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-24 02:01:20",
+    "runwell": "20230217-64144-D01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230217-64144-D01/m64144_230221_170941"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230217-64144-D01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64144_230221_170941"
+      }
+    }
+  },
+  "m64180_230221_220545": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230220_124936/2_B01/m64180_230221_220545.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-B01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "72038",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-B01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-23 23:31:52",
+    "runwell": "20230220-64180-B01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-B01/m64180_230221_220545"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-B01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64180_230221_220545"
+      }
+    }
+  },
+  "m64446e_230222_114512": {
+    "code": 0,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230218_061258/4_D01/m64446e_230222_114512.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "hifi_ctime": "2023-02-24 14:09:16",
+    "runwell": "20230218-64446e-D01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64144_230220_075519": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230217_111027/3_C01/m64144_230220_075519.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230217-64144-C01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "72565",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230217-64144-C01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-22 21:56:49",
+    "runwell": "20230217-64144-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230217-64144-C01/m64144_230220_075519"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230217-64144-C01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64144_230220_075519"
+      }
+    }
+  },
+  "m64173_230222_145422": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230218_094014/4_D01/m64173_230222_145422.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-D01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "72724",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-D01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-24 15:50:04",
+    "runwell": "20230218-64173-D01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-D01/m64173_230222_145422"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-D01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64173_230222_145422"
+      }
+    }
+  },
+  "m64181_230222_173443": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230218_134000/4_D01/m64181_230222_173443.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-D01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "72868",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-D01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-24 18:57:48",
+    "runwell": "20230218-64181-D01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-D01/m64181_230222_173443"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-D01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64181_230222_173443"
+      }
+    }
+  },
+  "m64447e_230223_043433": {
+    "code": 0,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230220_093857/3_C01/m64447e_230223_043433.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "hifi_ctime": "2023-02-25 06:09:07",
+    "runwell": "20230220-64447e-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64180_230223_073940": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230220_124936/3_C01/m64180_230223_073940.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-C01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "73190",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-C01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-25 08:47:34",
+    "runwell": "20230220-64180-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-C01/m64180_230223_073940"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-C01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64180_230223_073940"
+      }
+    }
+  },
+  "m64446e_230224_034905": {
+    "code": 0,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230224_033658/1_A01/m64446e_230224_034905.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "hifi_ctime": "2023-02-26 07:31:13",
+    "runwell": "20230224-64446e-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64173_230224_040412": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230224_035251/1_A01/m64173_230224_040412.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64173-A01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "73681",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64173-A01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-26 04:15:24",
+    "runwell": "20230224-64173-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64173-A01/m64173_230224_040412"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64173-A01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64173_230224_040412"
+      }
+    }
+  },
+  "m64181_230224_034619": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230224_033427/1_A01/m64181_230224_034619.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-A01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "73857",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-A01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-26 05:31:57",
+    "runwell": "20230224-64181-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-A01/m64181_230224_034619"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-A01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64181_230224_034619"
+      }
+    }
+  },
+  "m64447e_230224_135708": {
+    "code": 0,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230220_093857/4_D01/m64447e_230224_135708.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "hifi_ctime": "2023-02-26 18:22:31",
+    "runwell": "20230220-64447e-D01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64144_230224_124213": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230223_031039/2_B01/m64144_230224_124213.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-B01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74039",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-B01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-26 21:06:18",
+    "runwell": "20230223-64144-B01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-B01/m64144_230224_124213"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-B01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64144_230224_124213"
+      }
+    }
+  },
+  "m64180_230224_170601": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230220_124936/4_D01/m64180_230224_170601.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-D01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74228",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-D01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-26 21:59:19",
+    "runwell": "20230220-64180-D01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-D01/m64180_230224_170601"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-D01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-D01/Result"
+      }
+    }
+  },
+  "m64446e_230126_015559": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230120_130916/5_E01/m64446e_230126_015559.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230120-64446e-E01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74433",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230120-64446e-E01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-01-31 18:18:22",
+    "runwell": "20230120-64446e-E01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64144_230128_021218": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230128_020052/1_A01/m64144_230128_021218.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230128-64144-A01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74438",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230128-64144-A01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-01-31 18:11:51",
+    "runwell": "20230128-64144-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230128-64144-A01/m64144_230128_021218"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230128-64144-A01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64144_230128_021218"
+      }
+    }
+  },
+  "m64173_230128_042147": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230128_040845/1_A01/m64173_230128_042147.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230128-64173-A01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74432",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230128-64173-A01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-01-31 18:23:41",
+    "runwell": "20230128-64173-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230128-64173-A01/m64173_230128_042147"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230128-64173-A01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64173_230128_042147"
+      }
+    }
+  },
+  "m64180_230127_203025": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230125_015414/3_C01/m64180_230127_203025.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230125-64180-C01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74431",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230125-64180-C01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-01-31 18:23:54",
+    "runwell": "20230125-64180-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230125-64180-C01/m64180_230127_203025"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230125-64180-C01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64180_230127_203025"
+      }
+    }
+  },
+  "m64180_230210_053555": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230210_052428/1_B01/m64180_230210_053555.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-B01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74436",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-B01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-21 14:57:29",
+    "runwell": "20230210-64180-B01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-B01/m64180_230210_053555"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-B01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-B01/Result"
+      }
+    }
+  },
+  "m64180_230211_163133": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230210_052428/2_C01/m64180_230211_163133.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-C01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74437",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-C01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-21 16:28:08",
+    "runwell": "20230210-64180-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-C01/m64180_230211_163133"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-C01/Result"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64180_230213_014819": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230210_052428/3_D01/m64180_230213_014819.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-D01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74430",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-D01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-15 03:38:30",
+    "runwell": "20230210-64180-D01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-D01/m64180_230213_014819"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-D01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230210-64180-D01/Result"
+      }
+    }
+  },
+  "m64181_230127_124540": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230123_092027/4_D01/m64181_230127_124540.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230123-64181-D01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74434",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230123-64181-D01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-01-31 18:09:07",
+    "runwell": "20230123-64181-D01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230123-64181-D01/m64181_230127_124540"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230123-64181-D01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64181_230127_124540"
+      }
+    }
+  },
+  "m64181_230204_050851": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230204_043724/1_A01/m64181_230204_050851.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230204-64181-A01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74435",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230204-64181-A01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-12 09:43:26",
+    "runwell": "20230204-64181-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230204-64181-A01/m64181_230204_050851"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230204-64181-A01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230204-64181-A01/Result"
+      }
+    }
+  },
+  "m64446e_230225_143639": {
+    "code": 0,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230224_033658/2_B01/m64446e_230225_143639.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "hifi_ctime": "2023-02-27 15:52:46",
+    "runwell": "20230224-64446e-B01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64173_230225_131019": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230224_035251/2_B01/m64173_230225_131019.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64173-B01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74758",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64173-B01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-27 13:39:15",
+    "runwell": "20230224-64173-B01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64173-B01/m64173_230225_131019"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64173-B01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64173_230225_131019"
+      }
+    }
+  },
+  "m64181_230225_125036": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230224_033427/2_B01/m64181_230225_125036.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-B01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74757",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-B01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-27 13:14:29",
+    "runwell": "20230224-64181-B01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-B01/m64181_230225_125036"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-B01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64181_230225_125036"
+      }
+    }
+  },
+  "m64447e_230225_231322": {
+    "code": 0,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230220_093857/5_E01/m64447e_230225_231322.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "hifi_ctime": "2023-02-28 01:22:04",
+    "runwell": "20230220-64447e-E01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64144_230225_215045": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230223_031039/3_C01/m64144_230225_215045.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-C01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "74887",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-C01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-28 01:33:20",
+    "runwell": "20230223-64144-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-C01/m64144_230225_215045"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-C01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64144_230225_215045"
+      }
+    }
+  },
+  "m64144_230223_033227": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230223_031039/1_A01/m64144_230223_033227.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-A01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "75019",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-A01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-25 07:26:42",
+    "runwell": "20230223-64144-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-A01/m64144_230223_033227"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-A01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64144_230223_033227"
+      }
+    }
+  },
+  "m64181_230219_231309": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230218_134000/2_B01/m64181_230219_231309.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-B01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "75020",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-B01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-22 09:59:07",
+    "runwell": "20230218-64181-B01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-B01/m64181_230219_231309"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64181-B01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64181_230219_231309"
+      }
+    }
+  },
+  "m64180_230226_031831": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230226_030438/1_A01/m64180_230226_031831.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230226-64180-A01",
+      "chunk_num": "20",
+      "success": [],
+      "running": [],
+      "error": [],
+      "qsub_id": "75092",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230226-64180-A01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-28 06:41:08",
+    "runwell": "20230226-64180-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230226-64180-A01/m64180_230226_031831"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230226-64180-A01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64180_230226_031831"
+      }
+    }
+  },
+  "m64180_230220_130028": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230220_124936/1_A01/m64180_230220_130028.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-A01",
+      "chunk_num": "20",
+      "qsub_id": "75193",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-A01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-22 21:56:47",
+    "runwell": "20230220-64180-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-A01/m64180_230220_130028"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230220-64180-A01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64180_230220_130028"
+      }
+    }
+  },
+  "m64446e_230226_235538": {
+    "code": 0,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230224_033658/3_C01/m64446e_230226_235538.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0
+    },
+    "hifi_ctime": "2023-03-01 00:01:30",
+    "runwell": "20230224-64446e-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64181_230226_220839": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230224_033427/3_C01/m64181_230226_220839.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-C01",
+      "chunk_num": "20",
+      "qsub_id": "75350",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-C01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-28 22:12:36",
+    "runwell": "20230224-64181-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-C01/m64181_230226_220839"
+      },
+      "collect_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230224-64181-C01/Result"
+      },
+      "update_results": {
+        "status": "SUCCESSFULL",
+        "path": "/pfs/Sequencing/Pacbio/PB_CCS/m64181_230226_220839"
+      }
+    }
+  },
+  "m64144_230218_221218": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230217_111027/2_B01/m64144_230218_221218.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230217-64144-B01",
+      "chunk_num": "20",
+      "qsub_id": "75527",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230217-64144-B01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-21 16:29:43",
+    "runwell": "20230217-64144-B01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64173_230218_095126": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230218_094014/1_A01/m64173_230218_095126.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-A01",
+      "chunk_num": "20",
+      "qsub_id": "75533",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-A01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-21 10:49:19",
+    "runwell": "20230218-64173-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64173_230219_203920": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230218_094014/2_B01/m64173_230219_203920.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-B01",
+      "chunk_num": "20",
+      "qsub_id": "75531",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230218-64173-B01run_ccs.sh"
+    },
+    "runwell": "20230218-64173-B01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64180_230214_145650": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230214_144522/1_A01/m64180_230214_145650.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230214-64180-A01",
+      "chunk_num": "20",
+      "qsub_id": "75530",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230214-64180-A01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-16 19:02:48",
+    "runwell": "20230214-64180-A01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64180_230216_015214": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230214_144522/2_B01/m64180_230216_015214.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230214-64180-B01",
+      "chunk_num": "20",
+      "qsub_id": "75528",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230214-64180-B01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-18 04:29:04",
+    "runwell": "20230214-64180-B01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64180_230218_190146": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230214_144522/4_D01/m64180_230218_190146.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230214-64180-D01",
+      "chunk_num": "20",
+      "qsub_id": "75529",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230214-64180-D01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-21 16:29:45",
+    "runwell": "20230214-64180-D01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64181_230217_035239": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230214_093024/3_C01/m64181_230217_035239.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230214-64181-C01",
+      "chunk_num": "20",
+      "qsub_id": "75532",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230214-64181-C01run_ccs.sh"
+    },
+    "hifi_ctime": "2023-02-19 07:55:38",
+    "runwell": "20230214-64181-C01",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64447e_230227_091812": {
+    "code": 0,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230227_090618/1_A01/m64447e_230227_091812.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0
+    },
+    "hifi_ctime": "2023-03-01 12:16:27",
+    "runwell": "20230227-64447e-A01-PBL230165",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  },
+  "m64144_230227_072005": {
+    "code": "ccs_running",
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230223_031039/4_D01/m64144_230227_072005.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": "ccs_running",
+      "path": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-D01-PBL230150",
+      "chunk_num": "20",
+      "qsub_id": "75723",
+      "script_file": "/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230223-64144-D01-PBL230150/run_ccs.sh"
+    },
+    "hifi_ctime": "2023-03-01 12:30:38",
+    "runwell": "20230223-64144-D01-PBL230150",
+    "run_info": {
+      "pb_ccs": {
+        "status": "un",
+        "path": "null"
+      },
+      "collect_results": {
+        "status": "un",
+        "path": "null"
+      },
+      "update_results": {
+        "status": "un",
+        "path": "null"
+      }
+    }
+  }
+}

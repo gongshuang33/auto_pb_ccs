@@ -1,0 +1,3675 @@
+start: mgr Thu Feb 23 11:03:37 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+[]
+qw num: 197
+
+data_run.py end
+end: mgr Thu Feb 23 11:04:12 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 11:10:50 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+[]
+qw num: 197
+
+data_run.py end
+end: mgr Thu Feb 23 11:11:25 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 11:41:25 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230218_094014/3_C01/m64173_230221_054647.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+['m64173_230221_054647']
+qw num: 197
+
+data_run.py end
+end: mgr Thu Feb 23 11:42:01 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 12:12:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+[]
+qw num: 217
+
+data_run.py end
+end: mgr Thu Feb 23 12:12:37 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 12:42:37 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+[]
+qw num: 217
+
+data_run.py end
+end: mgr Thu Feb 23 12:43:13 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 13:13:13 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+[]
+qw num: 217
+
+data_run.py end
+end: mgr Thu Feb 23 13:13:50 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 13:43:50 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+[]
+qw num: 217
+
+data_run.py end
+end: mgr Thu Feb 23 13:44:26 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 14:14:26 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+[]
+qw num: 217
+
+data_run.py end
+end: mgr Thu Feb 23 14:15:02 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 14:45:02 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+[]
+qw num: False
+data_run.py end
+end: mgr Thu Feb 23 14:45:37 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 15:15:37 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+[]
+qw num: False
+data_run.py end
+end: mgr Thu Feb 23 15:16:13 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 15:46:13 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 1
+
+data_run.py end
+end: mgr Thu Feb 23 15:46:49 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 16:16:49 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Thu Feb 23 16:17:25 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 16:47:25 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Thu Feb 23 16:48:01 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 17:18:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Thu Feb 23 17:18:36 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 17:48:36 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 16
+
+data_run.py end
+end: mgr Thu Feb 23 17:49:12 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 18:19:12 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230218_134000/3_C01/m64181_230221_082204.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64181_230221_082204']
+qw num: False
+data_run.py end
+end: mgr Thu Feb 23 18:19:48 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 18:49:48 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 220
+
+data_run.py end
+end: mgr Thu Feb 23 18:50:24 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 19:20:24 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 220
+
+data_run.py end
+end: mgr Thu Feb 23 19:21:00 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 19:51:00 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 220
+
+data_run.py end
+end: mgr Thu Feb 23 19:51:35 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 20:21:35 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230220_093857/2_B01/m64447e_230221_191811.hifi_reads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 220
+
+data_run.py end
+end: mgr Thu Feb 23 20:22:11 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 20:52:11 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 220
+
+data_run.py end
+end: mgr Thu Feb 23 20:52:47 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 21:22:47 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 217
+
+data_run.py end
+end: mgr Thu Feb 23 21:23:23 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 21:53:23 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 214
+
+data_run.py end
+end: mgr Thu Feb 23 21:53:59 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 22:23:59 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 211
+
+data_run.py end
+end: mgr Thu Feb 23 22:24:35 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 22:54:35 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 209
+
+data_run.py end
+end: mgr Thu Feb 23 22:55:11 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 23:25:11 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 201
+
+data_run.py end
+end: mgr Thu Feb 23 23:25:47 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Thu Feb 23 23:55:47 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 194
+
+data_run.py end
+end: mgr Thu Feb 23 23:56:22 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 00:26:22 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 187
+
+data_run.py end
+end: mgr Fri Feb 24 00:26:58 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 00:56:58 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 180
+
+data_run.py end
+end: mgr Fri Feb 24 00:57:35 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 01:27:35 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 175
+
+data_run.py end
+end: mgr Fri Feb 24 01:28:11 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 01:58:11 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 169
+
+data_run.py end
+end: mgr Fri Feb 24 01:58:47 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 02:28:47 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230217_111027/4_D01/m64144_230221_170941.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64144_230221_170941']
+qw num: 166
+
+data_run.py end
+end: mgr Fri Feb 24 02:29:23 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 02:59:23 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 181
+
+data_run.py end
+end: mgr Fri Feb 24 02:59:59 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 03:29:59 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 178
+
+data_run.py end
+end: mgr Fri Feb 24 03:30:36 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 04:00:36 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 176
+
+data_run.py end
+end: mgr Fri Feb 24 04:01:11 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 04:31:11 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230220_124936/2_B01/m64180_230221_220545.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64180_230221_220545']
+qw num: 167
+
+data_run.py end
+end: mgr Fri Feb 24 04:31:47 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 05:01:47 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 184
+
+data_run.py end
+end: mgr Fri Feb 24 05:02:23 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 05:32:23 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 171
+
+data_run.py end
+end: mgr Fri Feb 24 05:32:59 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 06:02:59 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 168
+
+data_run.py end
+end: mgr Fri Feb 24 06:03:35 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 06:33:35 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 164
+
+data_run.py end
+end: mgr Fri Feb 24 06:34:11 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 07:04:11 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 161
+
+data_run.py end
+end: mgr Fri Feb 24 07:04:47 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 07:34:47 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 159
+
+data_run.py end
+end: mgr Fri Feb 24 07:35:23 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 08:05:23 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 152
+
+data_run.py end
+end: mgr Fri Feb 24 08:05:59 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 08:35:59 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 145
+
+data_run.py end
+end: mgr Fri Feb 24 08:36:35 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 09:06:35 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 138
+
+data_run.py end
+end: mgr Fri Feb 24 09:07:11 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 09:37:11 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 133
+
+data_run.py end
+end: mgr Fri Feb 24 09:37:47 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 10:07:47 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 128
+
+data_run.py end
+end: mgr Fri Feb 24 10:08:22 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 10:38:22 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 122
+
+data_run.py end
+end: mgr Fri Feb 24 10:38:58 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 11:08:58 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 117
+
+data_run.py end
+end: mgr Fri Feb 24 11:09:34 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 11:39:34 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 112
+
+data_run.py end
+end: mgr Fri Feb 24 11:40:10 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 12:10:10 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 108
+
+data_run.py end
+end: mgr Fri Feb 24 12:10:46 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 12:40:46 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 105
+
+data_run.py end
+end: mgr Fri Feb 24 12:41:22 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 13:11:22 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 101
+
+data_run.py end
+end: mgr Fri Feb 24 13:11:58 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 13:41:58 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 95
+
+data_run.py end
+end: mgr Fri Feb 24 13:42:33 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 14:12:34 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 90
+
+data_run.py end
+end: mgr Fri Feb 24 14:13:09 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 14:43:09 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230218_061258/4_D01/m64446e_230222_114512.hifi_reads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 82
+
+data_run.py end
+end: mgr Fri Feb 24 14:43:45 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 15:13:45 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 78
+
+data_run.py end
+end: mgr Fri Feb 24 15:14:21 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 15:44:21 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Fri Feb 24 15:44:57 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 16:14:57 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Fri Feb 24 16:15:34 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 16:45:34 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Fri Feb 24 16:46:10 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 17:16:10 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Fri Feb 24 17:16:46 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 17:46:46 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Fri Feb 24 17:47:23 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 18:17:23 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 108
+
+data_run.py end
+end: mgr Fri Feb 24 18:17:59 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 18:47:59 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 108
+
+data_run.py end
+end: mgr Fri Feb 24 18:48:36 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 19:18:36 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 108
+
+data_run.py end
+end: mgr Fri Feb 24 19:19:14 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 19:49:14 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 108
+
+data_run.py end
+end: mgr Fri Feb 24 19:49:51 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 20:19:51 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 108
+
+data_run.py end
+end: mgr Fri Feb 24 20:20:28 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 20:50:28 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 108
+
+data_run.py end
+end: mgr Fri Feb 24 20:51:05 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 21:21:05 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230218_094014/4_D01/m64173_230222_145422.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64173_230222_145422']
+qw num: 104
+
+data_run.py end
+end: mgr Fri Feb 24 21:21:43 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 21:51:43 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 121
+
+data_run.py end
+end: mgr Fri Feb 24 21:52:20 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 22:22:20 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 121
+
+data_run.py end
+end: mgr Fri Feb 24 22:22:57 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 22:52:57 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 118
+
+data_run.py end
+end: mgr Fri Feb 24 22:53:35 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 23:23:35 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 111
+
+data_run.py end
+end: mgr Fri Feb 24 23:24:12 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Fri Feb 24 23:54:12 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 102
+
+data_run.py end
+end: mgr Fri Feb 24 23:54:49 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 00:24:49 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 96
+
+data_run.py end
+end: mgr Sat Feb 25 00:25:26 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 00:55:26 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 92
+
+data_run.py end
+end: mgr Sat Feb 25 00:56:03 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 01:26:03 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 88
+
+data_run.py end
+end: mgr Sat Feb 25 01:26:41 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 01:56:41 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 85
+
+data_run.py end
+end: mgr Sat Feb 25 01:57:18 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 02:27:18 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230218_134000/4_D01/m64181_230222_173443.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64181_230222_173443']
+qw num: 78
+
+data_run.py end
+end: mgr Sat Feb 25 02:27:55 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 02:57:55 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 73
+
+data_run.py end
+end: mgr Sat Feb 25 02:58:33 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 03:28:33 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 73
+
+data_run.py end
+end: mgr Sat Feb 25 03:29:10 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 03:59:10 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 68
+
+data_run.py end
+end: mgr Sat Feb 25 03:59:47 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 04:29:47 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 66
+
+data_run.py end
+end: mgr Sat Feb 25 04:30:25 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 05:00:25 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 66
+
+data_run.py end
+end: mgr Sat Feb 25 05:01:02 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 05:31:02 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 63
+
+data_run.py end
+end: mgr Sat Feb 25 05:31:39 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 06:01:39 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 59
+
+data_run.py end
+end: mgr Sat Feb 25 06:02:16 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 06:32:16 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230220_093857/3_C01/m64447e_230223_043433.hifi_reads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 58
+
+data_run.py end
+end: mgr Sat Feb 25 06:32:53 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 07:02:53 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 65
+
+data_run.py end
+end: mgr Sat Feb 25 07:03:30 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 07:33:30 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230120_130916/5_E01/m64446e_230126_015559.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230128_020052/1_A01/m64144_230128_021218.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230223_031039/1_A01/m64144_230223_033227.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230128_040845/1_A01/m64173_230128_042147.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230218_094014/3_C01/m64173_230221_054647.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230125_015414/3_C01/m64180_230127_203025.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230123_092027/4_D01/m64181_230127_124540.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230204_043724/1_A01/m64181_230204_050851.subreads.bam
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_receive/addToJson.py", line 104, in <module>
+    add_json(args.inputs, args.output, args.code)
+  File "/home/gongshuang/pb/core/data_receive/addToJson.py", line 90, in add_json
+    data = mod_json_file(i.strip(), data, code)
+  File "/home/gongshuang/pb/core/data_receive/addToJson.py", line 70, in mod_json_file
+    raise Exception("New bam is in Json. Bam: " + movie)
+Exception: New bam is in Json. Bam: m64173_230221_054647
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 55
+
+data_run.py end
+end: mgr Sat Feb 25 07:34:07 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 08:04:07 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 51
+
+data_run.py end
+end: mgr Sat Feb 25 08:04:45 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 08:34:45 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 45
+
+data_run.py end
+end: mgr Sat Feb 25 08:35:22 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 09:05:22 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 40
+
+data_run.py end
+end: mgr Sat Feb 25 09:05:58 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 09:35:58 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 37
+
+data_run.py end
+end: mgr Sat Feb 25 09:36:35 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 10:06:35 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 34
+
+data_run.py end
+end: mgr Sat Feb 25 10:07:12 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 10:37:12 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 33
+
+data_run.py end
+end: mgr Sat Feb 25 10:37:50 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 11:07:50 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 30
+
+data_run.py end
+end: mgr Sat Feb 25 11:08:27 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 11:38:27 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 27
+
+data_run.py end
+end: mgr Sat Feb 25 11:39:04 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 12:09:04 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 24
+
+data_run.py end
+end: mgr Sat Feb 25 12:09:41 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 12:39:41 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 23
+
+data_run.py end
+end: mgr Sat Feb 25 12:40:18 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 13:10:18 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 22
+
+data_run.py end
+end: mgr Sat Feb 25 13:10:56 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 13:40:56 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 19
+
+data_run.py end
+end: mgr Sat Feb 25 13:41:33 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 14:11:33 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230220_124936/3_C01/m64180_230223_073940.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64180_230223_073940']
+qw num: 13
+
+data_run.py end
+end: mgr Sat Feb 25 14:12:11 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 14:42:11 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 30
+
+data_run.py end
+end: mgr Sat Feb 25 14:42:48 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 15:12:48 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 20
+
+data_run.py end
+end: mgr Sat Feb 25 15:13:25 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 15:43:25 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 13
+
+data_run.py end
+end: mgr Sat Feb 25 15:44:03 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 16:14:03 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 7
+
+data_run.py end
+end: mgr Sat Feb 25 16:14:40 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 16:44:40 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Sat Feb 25 16:45:17 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 17:15:17 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 2
+
+data_run.py end
+end: mgr Sat Feb 25 17:15:54 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 17:45:54 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 1
+
+data_run.py end
+end: mgr Sat Feb 25 17:46:32 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 18:16:32 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 18:17:09 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 18:47:09 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 18:47:46 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 19:17:46 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 19:18:23 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 19:48:23 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 19:49:01 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 20:19:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 20:19:38 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 20:49:38 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 20:50:15 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 21:20:15 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 21:20:53 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 21:50:53 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 21:51:30 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 22:21:30 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 22:22:08 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 22:52:08 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 22:52:45 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 23:22:45 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 23:23:22 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sat Feb 25 23:53:22 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sat Feb 25 23:54:00 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 00:24:00 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 00:24:37 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 00:54:37 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 00:55:14 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 01:25:14 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 01:25:51 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 01:55:51 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 01:56:29 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 02:26:29 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 02:27:06 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 02:57:06 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 02:57:43 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 03:27:43 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 03:28:21 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 03:58:21 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 03:58:58 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 04:28:58 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 04:29:35 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 04:59:35 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 05:00:12 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 05:30:12 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 05:30:50 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 06:00:50 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 06:01:27 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 06:31:27 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 06:32:04 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 07:02:04 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 07:02:42 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 07:32:42 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230224_033658/1_A01/m64446e_230224_034905.hifi_reads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 07:33:19 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 08:03:19 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 08:03:56 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 08:33:56 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230224_035251/1_A01/m64173_230224_040412.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64173_230224_040412']
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 08:34:33 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 09:04:33 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 09:05:10 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 09:35:10 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 09:35:46 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 10:05:46 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 10:06:24 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 10:36:24 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 10:37:01 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 11:07:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 11:07:38 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 11:37:38 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 11:38:15 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 12:08:15 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 12:08:53 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 12:38:53 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 12:39:30 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 13:09:30 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 13:10:07 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 13:40:07 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230224_033427/1_A01/m64181_230224_034619.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64181_230224_034619']
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 13:40:45 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 14:10:45 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 14:11:22 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 14:41:22 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 14:41:59 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 15:11:59 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 15:12:37 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 15:42:37 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 15:43:14 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 16:13:14 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 16:13:51 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 16:43:51 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 16:44:29 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 17:14:29 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 17:15:06 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 17:45:06 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 17:45:43 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 18:15:43 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 18:16:20 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 18:46:20 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230220_093857/4_D01/m64447e_230224_135708.hifi_reads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 18:46:58 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 19:16:58 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 19:17:35 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 19:47:35 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 19:48:12 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 20:18:12 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 20:18:49 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 20:48:49 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 20:49:27 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 21:19:27 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230223_031039/2_B01/m64144_230224_124213.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64144_230224_124213']
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 21:20:04 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 21:50:04 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 21:50:42 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 22:20:42 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 22:21:19 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 22:51:19 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 22:51:56 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 23:21:56 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 23:22:32 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Sun Feb 26 23:52:32 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Sun Feb 26 23:53:10 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 00:23:10 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 00:23:46 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 00:53:46 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 00:54:22 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 01:24:22 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 01:25:00 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 01:55:00 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 01:55:37 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 02:25:37 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 02:26:14 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 02:56:14 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 02:56:51 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 03:26:51 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 03:27:29 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 03:57:29 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 03:58:06 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 04:28:06 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 04:28:43 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 04:58:43 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 04:59:20 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 05:29:20 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230220_124936/4_D01/m64180_230224_170601.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64180_230224_170601']
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 05:29:58 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 05:59:58 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 06:00:35 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 06:30:35 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 06:31:12 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 07:01:12 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 07:01:49 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 07:31:49 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 07:32:27 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 08:02:27 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 08:03:04 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 08:33:04 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 08:33:41 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 09:03:41 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 09:04:17 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 09:34:17 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 09:34:54 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 10:04:54 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 10:05:31 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 10:35:31 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 10:36:08 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 11:06:08 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 11:06:44 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 11:36:44 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 11:37:22 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 12:07:22 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 12:07:59 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 12:37:59 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 12:38:36 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 13:08:36 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230120_130916/5_E01/m64446e_230126_015559.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230128_020052/1_A01/m64144_230128_021218.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230128_040845/1_A01/m64173_230128_042147.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230125_015414/3_C01/m64180_230127_203025.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230210_052428/1_B01/m64180_230210_053555.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230210_052428/2_C01/m64180_230211_163133.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230210_052428/3_D01/m64180_230213_014819.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230123_092027/4_D01/m64181_230127_124540.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230204_043724/1_A01/m64181_230204_050851.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64180_230213_014819', 'm64180_230127_203025', 'm64173_230128_042147', 'm64446e_230126_015559', 'm64181_230127_124540', 'm64181_230204_050851', 'm64180_230210_053555', 'm64180_230211_163133', 'm64144_230128_021218']
+qw num: False
+data_run.py end
+end: mgr Mon Feb 27 13:09:15 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 13:39:15 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 129
+
+data_run.py end
+end: mgr Mon Feb 27 13:39:52 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 14:09:52 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 129
+
+data_run.py end
+end: mgr Mon Feb 27 14:10:30 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 14:40:30 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 128
+
+data_run.py end
+end: mgr Mon Feb 27 14:41:07 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 15:11:07 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 128
+
+data_run.py end
+end: mgr Mon Feb 27 15:11:44 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 15:41:44 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 128
+
+data_run.py end
+end: mgr Mon Feb 27 15:42:22 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 16:12:22 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230224_033658/2_B01/m64446e_230225_143639.hifi_reads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 147
+
+data_run.py end
+end: mgr Mon Feb 27 16:12:59 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 16:42:59 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 143
+
+data_run.py end
+end: mgr Mon Feb 27 16:43:36 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 17:13:36 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 136
+
+data_run.py end
+end: mgr Mon Feb 27 17:14:14 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 17:44:14 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 135
+
+data_run.py end
+end: mgr Mon Feb 27 17:44:51 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 18:14:51 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230224_035251/2_B01/m64173_230225_131019.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230224_033427/2_B01/m64181_230225_125036.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64181_230225_125036', 'm64173_230225_131019']
+qw num: 130
+
+data_run.py end
+end: mgr Mon Feb 27 18:15:27 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 18:45:27 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 167
+
+data_run.py end
+end: mgr Mon Feb 27 18:46:03 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 19:16:03 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 165
+
+data_run.py end
+end: mgr Mon Feb 27 19:16:39 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 19:46:39 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 159
+
+data_run.py end
+end: mgr Mon Feb 27 19:47:16 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 20:17:16 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 145
+
+data_run.py end
+end: mgr Mon Feb 27 20:17:53 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 20:47:53 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 137
+
+data_run.py end
+end: mgr Mon Feb 27 20:48:31 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 21:18:31 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 135
+
+data_run.py end
+end: mgr Mon Feb 27 21:19:08 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 21:49:08 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 132
+
+data_run.py end
+end: mgr Mon Feb 27 21:49:45 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 22:19:45 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 124
+
+data_run.py end
+end: mgr Mon Feb 27 22:20:23 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 22:50:23 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 119
+
+data_run.py end
+end: mgr Mon Feb 27 22:51:00 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 23:21:00 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 117
+
+data_run.py end
+end: mgr Mon Feb 27 23:21:37 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Mon Feb 27 23:51:37 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 110
+
+data_run.py end
+end: mgr Mon Feb 27 23:52:14 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 00:22:14 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 107
+
+data_run.py end
+end: mgr Tue Feb 28 00:22:52 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 00:52:52 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 101
+
+data_run.py end
+end: mgr Tue Feb 28 00:53:29 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 01:23:29 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 98
+
+data_run.py end
+end: mgr Tue Feb 28 01:24:06 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 01:54:06 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230220_093857/5_E01/m64447e_230225_231322.hifi_reads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230223_031039/3_C01/m64144_230225_215045.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64144_230225_215045']
+qw num: 92
+
+data_run.py end
+end: mgr Tue Feb 28 01:54:42 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 02:24:42 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 91
+
+data_run.py end
+end: mgr Tue Feb 28 02:25:18 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 02:55:18 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 83
+
+data_run.py end
+end: mgr Tue Feb 28 02:55:53 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 03:25:54 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 78
+
+data_run.py end
+end: mgr Tue Feb 28 03:26:29 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 03:56:29 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 75
+
+data_run.py end
+end: mgr Tue Feb 28 03:57:05 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 04:27:05 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 72
+
+data_run.py end
+end: mgr Tue Feb 28 04:27:41 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 04:57:41 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 66
+
+data_run.py end
+end: mgr Tue Feb 28 04:58:17 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 05:28:17 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 63
+
+data_run.py end
+end: mgr Tue Feb 28 05:28:53 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 05:58:53 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 58
+
+data_run.py end
+end: mgr Tue Feb 28 05:59:30 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 06:29:30 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 58
+
+data_run.py end
+end: mgr Tue Feb 28 06:30:06 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 07:00:06 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 53
+
+data_run.py end
+end: mgr Tue Feb 28 07:00:43 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 07:30:43 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 50
+
+data_run.py end
+end: mgr Tue Feb 28 07:31:20 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 08:01:20 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 46
+
+data_run.py end
+end: mgr Tue Feb 28 08:01:57 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 08:31:57 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 42
+
+data_run.py end
+end: mgr Tue Feb 28 08:32:34 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 09:02:34 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 30
+
+data_run.py end
+end: mgr Tue Feb 28 09:03:11 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 09:33:11 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 26
+
+data_run.py end
+end: mgr Tue Feb 28 09:33:47 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 10:03:47 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 23
+
+data_run.py end
+end: mgr Tue Feb 28 10:04:25 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 10:34:25 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 20
+
+data_run.py end
+end: mgr Tue Feb 28 10:35:02 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 11:05:02 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 19
+
+data_run.py end
+end: mgr Tue Feb 28 11:05:38 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 11:35:38 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230223_031039/1_A01/m64144_230223_033227.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230218_134000/2_B01/m64181_230219_231309.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64144_230223_033227', 'm64181_230219_231309']
+qw num: 22
+
+data_run.py end
+end: mgr Tue Feb 28 11:36:16 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 12:06:16 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 61
+
+data_run.py end
+end: mgr Tue Feb 28 12:06:52 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 12:36:52 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 51
+
+data_run.py end
+end: mgr Tue Feb 28 12:37:28 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 13:07:28 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230226_030438/1_A01/m64180_230226_031831.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64180_230226_031831']
+qw num: 45
+
+data_run.py end
+end: mgr Tue Feb 28 13:08:04 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 13:38:04 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 61
+
+data_run.py end
+end: mgr Tue Feb 28 13:38:39 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 14:08:39 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 55
+
+data_run.py end
+end: mgr Tue Feb 28 14:09:15 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 14:39:15 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 50
+
+data_run.py end
+end: mgr Tue Feb 28 14:39:51 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 15:09:51 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 45
+
+data_run.py end
+end: mgr Tue Feb 28 15:10:28 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 15:40:28 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_run.py", line 118, in <module>
+    data = init_queue(queue_file, cell_done, data)
+  File "/home/gongshuang/pb/core/data_run/data_run.py", line 56, in init_queue
+    done_cells = get_list_from_file(cell_done)
+  File "/home/gongshuang/pb/core/data_run/data_run.py", line 32, in get_list_from_file
+    fin = open(infile, "r", encoding='utf-8')
+FileNotFoundError: [Errno 2] No such file or directory: '/home/gongshuang/pb/done'
+data_run.py end
+end: mgr Tue Feb 28 15:41:04 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 16:11:04 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_run.py", line 118, in <module>
+    data = init_queue(queue_file, cell_done, data)
+  File "/home/gongshuang/pb/core/data_run/data_run.py", line 56, in init_queue
+    done_cells = get_list_from_file(cell_done)
+  File "/home/gongshuang/pb/core/data_run/data_run.py", line 32, in get_list_from_file
+    fin = open(infile, "r", encoding='utf-8')
+FileNotFoundError: [Errno 2] No such file or directory: '/home/gongshuang/pb/done'
+data_run.py end
+end: mgr Tue Feb 28 16:11:42 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 16:41:42 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 36
+
+data_run.py end
+end: mgr Tue Feb 28 16:42:18 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 17:12:18 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 50
+
+data_run.py end
+end: mgr Tue Feb 28 17:12:54 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 17:42:54 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 44
+
+data_run.py end
+end: mgr Tue Feb 28 17:43:32 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 18:13:32 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 39
+
+data_run.py end
+end: mgr Tue Feb 28 18:14:09 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 18:44:09 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 36
+
+data_run.py end
+end: mgr Tue Feb 28 18:44:46 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 19:14:46 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 34
+
+data_run.py end
+end: mgr Tue Feb 28 19:15:23 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 19:45:23 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 31
+
+data_run.py end
+end: mgr Tue Feb 28 19:46:01 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 20:16:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 29
+
+data_run.py end
+end: mgr Tue Feb 28 20:16:38 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 20:46:38 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 26
+
+data_run.py end
+end: mgr Tue Feb 28 20:47:14 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 21:17:14 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 23
+
+data_run.py end
+end: mgr Tue Feb 28 21:17:50 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 21:47:50 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 20
+
+data_run.py end
+end: mgr Tue Feb 28 21:48:25 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 22:18:25 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 13
+
+data_run.py end
+end: mgr Tue Feb 28 22:19:01 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 22:49:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 10
+
+data_run.py end
+end: mgr Tue Feb 28 22:49:37 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 23:19:37 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 6
+
+data_run.py end
+end: mgr Tue Feb 28 23:20:13 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Tue Feb 28 23:50:13 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Tue Feb 28 23:50:50 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 00:20:50 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 00:21:27 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 00:51:27 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 00:52:04 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 01:22:04 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 01:22:42 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 01:52:42 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 01:53:19 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 02:23:19 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 02:23:56 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 02:53:56 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 02:54:33 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 03:24:33 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 03:25:11 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 03:55:11 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 03:55:48 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 04:25:48 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 04:26:25 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 04:56:25 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 04:57:02 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 05:27:03 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 05:27:40 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 05:57:40 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 05:58:17 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 06:28:17 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 06:28:55 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 06:58:55 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 06:59:32 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 07:29:32 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 07:30:09 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 08:00:09 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 08:00:46 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 08:30:46 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 08:31:23 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 09:01:23 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 5
+
+data_run.py end
+end: mgr Wed Mar 1 09:02:00 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 09:32:00 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 09:32:37 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 10:02:37 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230217_111027/2_B01/m64144_230218_221218.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230218_094014/1_A01/m64173_230218_095126.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230218_094014/2_B01/m64173_230219_203920.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230214_144522/1_A01/m64180_230214_145650.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230214_144522/2_B01/m64180_230216_015214.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230214_144522/4_D01/m64180_230218_190146.subreads.bam
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230214_093024/3_C01/m64181_230217_035239.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: ['m64144_230218_221218', 'm64180_230216_015214', 'm64180_230218_190146', 'm64180_230214_145650', 'm64173_230219_203920', 'm64181_230217_035239', 'm64173_230218_095126']
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 10:03:15 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 10:33:15 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 94
+
+data_run.py end
+end: mgr Wed Mar 1 10:33:53 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 11:03:53 CST 2023
+find_new_bam.sh start
+  File "/home/gongshuang/pb/core/data_receive/addToJson.py", line 31
+    xml_path = 
+              ^
+SyntaxError: invalid syntax
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 94
+
+data_run.py end
+end: mgr Wed Mar 1 11:04:30 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 11:34:30 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: 94
+
+data_run.py end
+end: mgr Wed Mar 1 11:35:07 CST 2023
+------------------------------------------------------------------------------------

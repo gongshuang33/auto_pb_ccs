@@ -1,0 +1,59 @@
+# coding=UTF-8
+#!/usr/bin/env python3
+
+import os
+import glob
+import collections
+import argparse
+
+
+parser = argparse.ArgumentParser(description="combine chunk ccs report")
+parser.add_argument('path', help="input ccs chunk dir")
+parser.add_argument('-p', '--prefix')
+args = parser.parse_args()
+
+path = os.path.abspath(args.path)
+file_list = glob.glob('%s/*/*.ccs.ccs_report.txt' % path)
+d = {}
+key = []
+d = collections.OrderedDict()
+out = open('%s/%s.ccs_report_summary.txt' % (path, args.prefix), 'w')
+
+
+def report_sum(ccs_report):
+    global d
+
+    for line in open(ccs_report, 'r'):
+        if line.startswith('\n'):
+            continue
+        elif line.startswith('Exclusive'):
+            d[line.strip().split(':')[0]] = ''
+        else:
+            lines = line.strip().split(':')
+            d.setdefault(lines[0],[]).append(int(lines[1].split()[0]))
+            
+    return d
+
+
+for file in file_list:
+    dt = report_sum(file)
+#print(dt)
+for k in dt.keys():
+    key.append(k)
+
+A = sum(dt[key[0]])
+C = sum(dt[key[2]])
+
+for k,v in dt.items():
+    if k == key[0]:
+        out.write('%s : %s\n' % (k, A))
+    elif k == key[1]:
+        out.write('%s : %s (%.2f%%)\n' % (k, sum(v), (sum(v)/A)*100))
+    elif k == key[2]:
+        out.write('%s : %s (%.2f%%)\n\n' % (k, sum(v), (sum(v)/A)*100))
+    elif k == key[3]:
+        out.write('%s :\n' % k)
+    else:
+        out.write('%s : %s (%.2f%%)\n' % (k, sum(v), (sum(v)/C)*100))
+
+out.close()

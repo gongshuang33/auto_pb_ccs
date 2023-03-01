@@ -1,0 +1,7393 @@
+{
+  "test": [],
+  "m64446e_221231_202743": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20221230_092724/2_B01/m64446e_221231_202743.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-12 15:12:28",
+    "runwell": "20221230-64446e-B01"
+  },
+  "m64446e_230102_055034": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20221230_092724/3_C01/m64446e_230102_055034.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-12 22:13:13",
+    "runwell": "20221230-64446e-C01"
+  },
+  "m64446e_230110_151103": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230106_105416/4_D01/m64446e_230110_151103.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-18 01:54:34",
+    "runwell": "20230106-64446e-D01"
+  },
+  "m64446e_230112_020850": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230106_105416/5_E01/m64446e_230112_020850.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:14:05",
+    "runwell": "20230106-64446e-E01"
+  },
+  "m64446e_230119_030455": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230113_134739/5_E01/m64446e_230119_030455.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:14:18",
+    "runwell": "20230113-64446e-E01"
+  },
+  "m64446e_230128_015945": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230128_014748/1_A01/m64446e_230128_015945.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:23:54",
+    "runwell": "20230128-64446e-A01"
+  },
+  "m64446e_230129_110452": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230128_014748/2_B01/m64446e_230129_110452.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:24:54",
+    "runwell": "20230128-64446e-B01"
+  },
+  "m64446e_230130_200936": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230128_014748/3_C01/m64446e_230130_200936.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:42:38",
+    "runwell": "20230128-64446e-C01"
+  },
+  "m64446e_230201_051635": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230128_014748/4_D01/m64446e_230201_051635.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:43:05",
+    "runwell": "20230128-64446e-D01"
+  },
+  "m64446e_230202_142037": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230128_014748/5_E01/m64446e_230202_142037.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:42:55",
+    "runwell": "20230128-64446e-E01"
+  },
+  "m64446e_230209_141057": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230204_024832/5_E01/m64446e_230209_141057.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:44:56",
+    "runwell": "20230204-64446e-E01"
+  },
+  "m64446e_230212_160952": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230211_050948/2_B01/m64446e_230212_160952.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-14 16:53:42",
+    "runwell": "20230211-64446e-B01"
+  },
+  "m64446e_230214_012012": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230211_050948/3_C01/m64446e_230214_012012.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-16 02:41:54",
+    "runwell": "20230211-64446e-C01"
+  },
+  "m64446e_230215_102731": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230211_050948/4_D01/m64446e_230215_102731.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-17 10:40:08",
+    "runwell": "20230211-64446e-D01"
+  },
+  "m64446e_230216_195804": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230211_050948/5_E01/m64446e_230216_195804.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-18 21:37:41",
+    "runwell": "20230211-64446e-E01"
+  },
+  "m64446e_230218_062407": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230218_061258/1_A01/m64446e_230218_062407.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-20 09:58:41",
+    "runwell": "20230218-64446e-A01"
+  },
+  "m64446e_230219_171858": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230218_061258/2_B01/m64446e_230219_171858.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 18:30:43",
+    "runwell": "20230218-64446e-B01"
+  },
+  "m64447e_230201_221406": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230130_034844/3_C01/m64447e_230201_221406.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:43:02",
+    "runwell": "20230130-64447e-C01"
+  },
+  "m64447e_230203_071655": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230130_034844/4_D01/m64447e_230203_071655.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 08:39:26",
+    "runwell": "20230130-64447e-D01"
+  },
+  "m64447e_230204_162252": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230130_034844/5_E01/m64447e_230204_162252.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:43:24",
+    "runwell": "20230130-64447e-E01"
+  },
+  "m64447e_230217_113607": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230213_035423/4_D01/m64447e_230217_113607.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-19 12:04:16",
+    "runwell": "20230213-64447e-D01"
+  },
+  "m64447e_230220_095104": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230220_093857/1_A01/m64447e_230220_095104.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-22 10:23:20",
+    "runwell": "20230220-64447e-A01"
+  },
+  "m64504e_221112_031244": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221112_025610/1_A01/m64504e_221112_031244.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-03 11:14:24",
+    "runwell": "20221112-64504e-A01"
+  },
+  "m64504e_221114_084527": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221114_083434/1_A03/m64504e_221114_084527.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-02 23:00:33",
+    "runwell": "20221114-64504e-A03"
+  },
+  "m64504e_221115_175836": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221114_083434/2_B03/m64504e_221115_175836.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-02 22:59:59",
+    "runwell": "20221114-64504e-B03"
+  },
+  "m64504e_221117_030514": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221114_083434/3_C03/m64504e_221117_030514.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-03 11:14:23",
+    "runwell": "20221114-64504e-C03"
+  },
+  "m64504e_221118_123636": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221114_083434/4_D03/m64504e_221118_123636.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-03 11:14:23",
+    "runwell": "20221114-64504e-D03"
+  },
+  "m64504e_221121_101643": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221121_100548/1_A01/m64504e_221121_101643.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-02 22:58:23",
+    "runwell": "20221121-64504e-A01"
+  },
+  "m64504e_221122_211036": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221121_100548/2_B01/m64504e_221122_211036.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-04 07:32:37",
+    "runwell": "20221121-64504e-B01"
+  },
+  "m64504e_221124_080622": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221121_100548/3_C01/m64504e_221124_080622.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-26 20:40:20",
+    "runwell": "20221121-64504e-C01"
+  },
+  "m64504e_221125_190155": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221121_100548/4_D01/m64504e_221125_190155.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-03 11:17:25",
+    "runwell": "20221121-64504e-D01"
+  },
+  "m64504e_221128_080402": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221128_075231/1_A01/m64504e_221128_080402.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-03 11:17:24",
+    "runwell": "20221128-64504e-A01"
+  },
+  "m64504e_221129_173007": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221128_075231/2_B01/m64504e_221129_173007.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-01 21:11:56",
+    "runwell": "20221128-64504e-B01"
+  },
+  "m64504e_221201_025502": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221128_075231/3_C01/m64504e_221201_025502.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-03 06:36:19",
+    "runwell": "20221128-64504e-C01"
+  },
+  "m64504e_221202_135042": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221128_075231/4_D01/m64504e_221202_135042.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-04 23:22:15",
+    "runwell": "20221128-64504e-D01"
+  },
+  "m64504e_221205_083808": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221205_081627/1_A01/m64504e_221205_083808.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-11 13:46:45",
+    "runwell": "20221205-64504e-A01"
+  },
+  "m64504e_221206_181401": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221205_081627/2_B01/m64504e_221206_181401.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-31 15:57:59",
+    "runwell": "20221205-64504e-B01"
+  },
+  "m64504e_221208_033240": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221205_081627/3_C01/m64504e_221208_033240.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-31 16:08:40",
+    "runwell": "20221205-64504e-C01"
+  },
+  "m64504e_221209_142821": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64504e/r64504e_20221205_081627/4_D01/m64504e_221209_142821.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-28 10:17:03",
+    "runwell": "20221205-64504e-D01"
+  },
+  "m64446e_221230_093941": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20221230_092724/1_A01/m64446e_221230_093941.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-12 15:12:23",
+    "runwell": "20221230-64446e-A01"
+  },
+  "m64446e_230103_151916": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20221230_092724/4_D01/m64446e_230103_151916.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-17 10:27:47",
+    "runwell": "20221230-64446e-D01"
+  },
+  "m64446e_230105_003003": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20221230_092724/5_E01/m64446e_230105_003003.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-07 03:35:46",
+    "runwell": "20221230-64446e-E01"
+  },
+  "m64446e_230106_110555": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230106_105416/1_A01/m64446e_230106_110555.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-08 15:15:20",
+    "runwell": "20230106-64446e-A01"
+  },
+  "m64446e_230107_202446": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230106_105416/2_B01/m64446e_230107_202446.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-14 09:19:55",
+    "runwell": "20230106-64446e-B01"
+  },
+  "m64446e_230109_054142": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230106_105416/3_C01/m64446e_230109_054142.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-11 07:58:45",
+    "runwell": "20230106-64446e-C01"
+  },
+  "m64446e_230113_140324": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230113_134739/1_A01/m64446e_230113_140324.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-22 04:29:04",
+    "runwell": "20230113-64446e-A01"
+  },
+  "m64446e_230114_231812": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230113_134739/2_B01/m64446e_230114_231812.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-22 11:59:14",
+    "runwell": "20230113-64446e-B01"
+  },
+  "m64446e_230116_084354": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230113_134739/3_C01/m64446e_230116_084354.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-24 20:40:55",
+    "runwell": "20230113-64446e-C01"
+  },
+  "m64446e_230117_175437": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230113_134739/4_D01/m64446e_230117_175437.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:14:30",
+    "runwell": "20230113-64446e-D01"
+  },
+  "m64446e_230120_132045": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230120_130916/1_A01/m64446e_230120_132045.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:13:15",
+    "runwell": "20230120-64446e-A01"
+  },
+  "m64446e_230121_222553": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230120_130916/2_B01/m64446e_230121_222553.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:17:44",
+    "runwell": "20230120-64446e-B01"
+  },
+  "m64446e_230123_073558": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230120_130916/3_C01/m64446e_230123_073558.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:19:22",
+    "runwell": "20230120-64446e-C01"
+  },
+  "m64446e_230124_164253": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230120_130916/4_D01/m64446e_230124_164253.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:18:40",
+    "runwell": "20230120-64446e-D01"
+  },
+  "m64446e_230126_015559": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230120_130916/5_E01/m64446e_230126_015559.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:18:22",
+    "runwell": "20230120-64446e-E01"
+  },
+  "m64446e_230204_030039": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230204_024832/1_A01/m64446e_230204_030039.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-06 02:54:38",
+    "runwell": "20230204-64446e-A01"
+  },
+  "m64446e_230205_085940": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230204_024832/2_B01/m64446e_230205_085940.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-07 09:23:27",
+    "runwell": "20230204-64446e-B01"
+  },
+  "m64446e_230206_195958": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230204_024832/3_C01/m64446e_230206_195958.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:44:21",
+    "runwell": "20230204-64446e-C01"
+  },
+  "m64446e_230208_050358": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230204_024832/4_D01/m64446e_230208_050358.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:44:48",
+    "runwell": "20230204-64446e-D01"
+  },
+  "m64446e_230211_052225": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230211_050948/1_A01/m64446e_230211_052225.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 14:57:20",
+    "runwell": "20230211-64446e-A01"
+  },
+  "m64447e_230116_040558": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230116_035358/1_A01/m64447e_230116_040558.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-18 08:27:43",
+    "runwell": "20230116-64447e-A01"
+  },
+  "m64447e_230117_150126": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230116_035358/2_B01/m64447e_230117_150126.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 17:58:01",
+    "runwell": "20230116-64447e-B01"
+  },
+  "m64447e_230119_000327": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230116_035358/3_C01/m64447e_230119_000327.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:14:18",
+    "runwell": "20230116-64447e-C01"
+  },
+  "m64447e_230120_090549": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230116_035358/4_D01/m64447e_230120_090549.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 17:58:42",
+    "runwell": "20230116-64447e-D01"
+  },
+  "m64447e_230121_180745": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230116_035358/5_E01/m64447e_230121_180745.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:17:56",
+    "runwell": "20230116-64447e-E01"
+  },
+  "m64447e_230123_041715": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230123_040459/1_A01/m64447e_230123_041715.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:19:34",
+    "runwell": "20230123-64447e-A01"
+  },
+  "m64447e_230124_132115": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230123_040459/2_B01/m64447e_230124_132115.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:06:31",
+    "runwell": "20230123-64447e-B01"
+  },
+  "m64447e_230125_222701": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230123_040459/3_C01/m64447e_230125_222701.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:18:21",
+    "runwell": "20230123-64447e-C01"
+  },
+  "m64447e_230127_073541": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230123_040459/4_D01/m64447e_230127_073541.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:24:30",
+    "runwell": "20230123-64447e-D01"
+  },
+  "m64447e_230128_165242": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230123_040459/5_E01/m64447e_230128_165242.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:23:07",
+    "runwell": "20230123-64447e-E01"
+  },
+  "m64447e_230130_040024": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230130_034844/1_A01/m64447e_230130_040024.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-01 07:23:23",
+    "runwell": "20230130-64447e-A01"
+  },
+  "m64447e_230131_130753": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230130_034844/2_B01/m64447e_230131_130753.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-02 15:56:09",
+    "runwell": "20230130-64447e-B01"
+  },
+  "m64447e_230206_030427": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230206_025312/1_A01/m64447e_230206_030427.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-08 08:19:44",
+    "runwell": "20230206-64447e-A01"
+  },
+  "m64447e_230207_135217": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230206_025312/2_B01/m64447e_230207_135217.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:44:09",
+    "runwell": "20230206-64447e-B01"
+  },
+  "m64447e_230208_230511": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230206_025312/3_C01/m64447e_230208_230511.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:44:36",
+    "runwell": "20230206-64447e-C01"
+  },
+  "m64447e_230210_081815": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230206_025312/4_D01/m64447e_230210_081815.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:28:18",
+    "runwell": "20230206-64447e-D01"
+  },
+  "m64447e_230211_172232": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230206_025312/5_E01/m64447e_230211_172232.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:28:07",
+    "runwell": "20230206-64447e-E01"
+  },
+  "m64447e_230213_042753": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230213_035423/1_A01/m64447e_230213_042753.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-20 21:23:14",
+    "runwell": "20230213-64447e-A01"
+  },
+  "m64447e_230214_152235": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230213_035423/2_B01/m64447e_230214_152235.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:29:05",
+    "runwell": "20230213-64447e-B01"
+  },
+  "m64447e_230216_022128": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230213_035423/3_C01/m64447e_230216_022128.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-18 04:10:08",
+    "runwell": "20230213-64447e-C01"
+  },
+  "m64447e_230218_204651": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64447e/r64447e_20230213_035423/5_E01/m64447e_230218_204651.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:29:45",
+    "runwell": "20230213-64447e-E01"
+  },
+  "m64144_221220_061111": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221220_061101/1_A01/m64144_221220_061111.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-20 14:24:42",
+    "runwell": "20221220-64144-A01"
+  },
+  "m64144_221220_073110": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221220_071924/1_A01/m64144_221220_073110.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-26 20:45:35",
+    "runwell": "20221220-64144-A01"
+  },
+  "m64144_221221_164252": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221220_071924/2_B01/m64144_221221_164252.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-27 17:28:49",
+    "runwell": "20221220-64144-B01"
+  },
+  "m64144_221224_100614": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221224_100607/1_A01/m64144_221224_100614.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-24 18:18:46",
+    "runwell": "20221224-64144-A01"
+  },
+  "m64144_221224_104559": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221224_103242/1_A01/m64144_221224_104559.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-26 20:46:03",
+    "runwell": "20221224-64144-A01"
+  },
+  "m64144_221225_165206": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221224_103242/2_B01/m64144_221225_165206.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-28 05:03:54",
+    "runwell": "20221224-64144-B01"
+  },
+  "m64144_221226_230350": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221224_103242/3_C01/m64144_221226_230350.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-09 05:29:08",
+    "runwell": "20221224-64144-C01"
+  },
+  "m64144_221228_051543": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221224_103242/4_D01/m64144_221228_051543.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-30 09:11:13",
+    "runwell": "20221224-64144-D01"
+  },
+  "m64144_221230_032252": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221230_032242/1_A01/m64144_221230_032252.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-30 11:35:53",
+    "runwell": "20221230-64144-A01"
+  },
+  "m64144_221230_044850": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221230_044839/1_A01/m64144_221230_044850.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-30 13:02:05",
+    "runwell": "20221230-64144-A01"
+  },
+  "m64144_221230_061459": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221230_060242/1_A01/m64144_221230_061459.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-01 15:06:30",
+    "runwell": "20221230-64144-A01"
+  },
+  "m64144_221231_170945": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221230_060242/2_B01/m64144_221231_170945.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-03 01:41:36",
+    "runwell": "20221230-64144-B01"
+  },
+  "m64144_230102_021919": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221230_060242/3_C01/m64144_230102_021919.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-04 07:46:04",
+    "runwell": "20221230-64144-C01"
+  },
+  "m64144_230103_131559": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221230_060242/4_D01/m64144_230103_131559.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-05 19:04:37",
+    "runwell": "20221230-64144-D01"
+  },
+  "m64144_230104_223627": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20221230_060242/5_E01/m64144_230104_223627.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-07 06:57:05",
+    "runwell": "20221230-64144-E01"
+  },
+  "m64144_230106_084825": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230106_083719/1_A01/m64144_230106_084825.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-09 04:47:29",
+    "runwell": "20230106-64144-A01"
+  },
+  "m64144_230107_175623": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230106_083719/2_B01/m64144_230107_175623.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-09 21:15:15",
+    "runwell": "20230106-64144-B01"
+  },
+  "m64144_230109_032849": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230106_083719/3_C01/m64144_230109_032849.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-11 11:59:01",
+    "runwell": "20230106-64144-C01"
+  },
+  "m64144_230113_064209": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230113_064201/1_A01/m64144_230113_064209.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-13 18:45:48",
+    "runwell": "20230113-64144-A01"
+  },
+  "m64144_230116_100737": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230116_095614/1_A01/m64144_230116_100737.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-24 20:11:16",
+    "runwell": "20230116-64144-A01"
+  },
+  "m64144_230117_191014": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230116_095614/2_B01/m64144_230117_191014.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:14:30",
+    "runwell": "20230116-64144-B01"
+  },
+  "m64144_230119_041714": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230116_095614/3_C01/m64144_230119_041714.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:14:09",
+    "runwell": "20230116-64144-C01"
+  },
+  "m64144_230120_132715": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230116_095614/4_D01/m64144_230120_132715.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 17:58:41",
+    "runwell": "20230116-64144-D01"
+  },
+  "m64144_230122_061123": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230122_060022/1_A01/m64144_230122_061123.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:16:22",
+    "runwell": "20230122-64144-A01"
+  },
+  "m64144_230123_151716": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230122_060022/2_B01/m64144_230123_151716.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:19:05",
+    "runwell": "20230122-64144-B01"
+  },
+  "m64144_230125_002427": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230122_060022/3_C01/m64144_230125_002427.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:18:28",
+    "runwell": "20230122-64144-C01"
+  },
+  "m64144_230126_092946": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230122_060022/4_D01/m64144_230126_092946.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:09:56",
+    "runwell": "20230122-64144-D01"
+  },
+  "m64144_230128_021218": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230128_020052/1_A01/m64144_230128_021218.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:11:51",
+    "runwell": "20230128-64144-A01"
+  },
+  "m64144_230129_111154": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230128_020052/2_B01/m64144_230129_111154.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-01 10:30:39",
+    "runwell": "20230128-64144-B01"
+  },
+  "m64144_230130_201722": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230128_020052/3_C01/m64144_230130_201722.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-02 04:57:51",
+    "runwell": "20230128-64144-C01"
+  },
+  "m64144_230201_051820": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230128_020052/4_D01/m64144_230201_051820.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-11 22:34:48",
+    "runwell": "20230128-64144-D01"
+  },
+  "m64144_230203_043210": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230203_042107/1_A01/m64144_230203_043210.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-05 13:40:41",
+    "runwell": "20230203-64144-A01"
+  },
+  "m64144_230204_152744": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230203_042107/2_B01/m64144_230204_152744.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-07 01:33:48",
+    "runwell": "20230203-64144-B01"
+  },
+  "m64144_230206_003525": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230203_042107/3_C01/m64144_230206_003525.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-08 10:11:23",
+    "runwell": "20230203-64144-C01"
+  },
+  "m64144_230207_094252": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230203_042107/4_D01/m64144_230207_094252.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-11 22:35:51",
+    "runwell": "20230203-64144-D01"
+  },
+  "m64144_230208_184423": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230203_042107/5_E01/m64144_230208_184423.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:44:39",
+    "runwell": "20230203-64144-E01"
+  },
+  "m64144_230210_060430": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230210_055332/1_A01/m64144_230210_060430.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:28:19",
+    "runwell": "20230210-64144-A01"
+  },
+  "m64144_230211_150950": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230210_055332/2_B01/m64144_230211_150950.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:28:07",
+    "runwell": "20230210-64144-B01"
+  },
+  "m64144_230213_001750": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230210_055332/3_C01/m64144_230213_001750.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-15 03:42:02",
+    "runwell": "20230210-64144-C01"
+  },
+  "m64144_230214_111534": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230210_055332/4_D01/m64144_230214_111534.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-16 12:19:47",
+    "runwell": "20230210-64144-D01"
+  },
+  "m64144_230217_112403": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230217_111027/1_A01/m64144_230217_112403.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-19 22:50:45",
+    "runwell": "20230217-64144-A01"
+  },
+  "m64144_230218_221218": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230217_111027/2_B01/m64144_230218_221218.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:29:43",
+    "runwell": "20230217-64144-B01"
+  },
+  "m64144_230220_075519": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64144/r64144_20230217_111027/3_C01/m64144_230220_075519.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-22 16:32:36",
+    "runwell": "20230217-64144-C01"
+  },
+  "m64173_230112_020322": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230112_015213/1_A01/m64173_230112_020322.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-23 22:54:25",
+    "runwell": "20230112-64173-A01"
+  },
+  "m64173_230113_131150": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230113_125625/1_A01/m64173_230113_131150.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-23 22:54:41",
+    "runwell": "20230113-64173-A01"
+  },
+  "m64173_230114_221611": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230113_125625/2_B01/m64173_230114_221611.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-23 22:54:59",
+    "runwell": "20230113-64173-B01"
+  },
+  "m64173_230116_072006": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230113_125625/3_C01/m64173_230116_072006.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-24 20:12:30",
+    "runwell": "20230113-64173-C01"
+  },
+  "m64173_230118_015102": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230118_013912/1_A01/m64173_230118_015102.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:14:30",
+    "runwell": "20230118-64173-A01"
+  },
+  "m64173_230119_110229": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230118_013912/2_B01/m64173_230119_110229.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:14:03",
+    "runwell": "20230118-64173-B01"
+  },
+  "m64173_230120_200328": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230118_013912/3_C01/m64173_230120_200328.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:13:10",
+    "runwell": "20230118-64173-C01"
+  },
+  "m64173_230122_124005": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230122_122911/1_A01/m64173_230122_124005.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:20:04",
+    "runwell": "20230122-64173-A01"
+  },
+  "m64173_230123_214516": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230122_122911/2_B01/m64173_230123_214516.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:18:58",
+    "runwell": "20230122-64173-B01"
+  },
+  "m64173_230125_065226": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230122_122911/3_C01/m64173_230125_065226.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:18:28",
+    "runwell": "20230122-64173-C01"
+  },
+  "m64173_230126_155619": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230122_122911/4_D01/m64173_230126_155619.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:22:06",
+    "runwell": "20230122-64173-D01"
+  },
+  "m64173_230128_042147": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230128_040845/1_A01/m64173_230128_042147.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:23:41",
+    "runwell": "20230128-64173-A01"
+  },
+  "m64173_230129_132641": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230128_040845/2_B01/m64173_230129_132641.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 17:24:02",
+    "runwell": "20230128-64173-B01"
+  },
+  "m64173_230130_223034": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230128_040845/3_C01/m64173_230130_223034.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:42:37",
+    "runwell": "20230128-64173-C01"
+  },
+  "m64173_230201_073714": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230128_040845/4_D01/m64173_230201_073714.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-03 11:37:24",
+    "runwell": "20230128-64173-D01"
+  },
+  "m64173_230202_164106": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230128_040845/5_E01/m64173_230202_164106.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-04 21:15:45",
+    "runwell": "20230128-64173-E01"
+  },
+  "m64173_230204_044924": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230204_043830/1_A01/m64173_230204_044924.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:43:28",
+    "runwell": "20230204-64173-A01"
+  },
+  "m64173_230205_135407": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230204_043830/2_B01/m64173_230205_135407.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-07 13:48:39",
+    "runwell": "20230204-64173-B01"
+  },
+  "m64173_230206_225459": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230204_043830/3_C01/m64173_230206_225459.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-09 00:50:22",
+    "runwell": "20230204-64173-C01"
+  },
+  "m64173_230208_105116": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230208_103928/1_A01/m64173_230208_105116.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-11 22:36:19",
+    "runwell": "20230208-64173-A01"
+  },
+  "m64173_230209_200530": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230208_103928/2_B01/m64173_230209_200530.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 14:57:29",
+    "runwell": "20230208-64173-B01"
+  },
+  "m64173_230211_051918": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230208_103928/3_C01/m64173_230211_051918.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:28:11",
+    "runwell": "20230208-64173-C01"
+  },
+  "m64173_230212_142635": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230208_103928/4_D01/m64173_230212_142635.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-14 22:14:32",
+    "runwell": "20230208-64173-D01"
+  },
+  "m64173_230214_015848": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230214_014758/1_A01/m64173_230214_015848.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-16 01:53:01",
+    "runwell": "20230214-64173-A01"
+  },
+  "m64173_230215_113238": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230214_014758/2_B01/m64173_230215_113238.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-17 12:34:38",
+    "runwell": "20230214-64173-B01"
+  },
+  "m64173_230216_210328": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230214_014758/3_C01/m64173_230216_210328.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-18 22:40:39",
+    "runwell": "20230214-64173-C01"
+  },
+  "m64173_230218_095126": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230218_094014/1_A01/m64173_230218_095126.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 10:49:19",
+    "runwell": "20230218-64173-A01"
+  },
+  "m64173_230219_203920": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64173/r64173_20230218_094014/2_B01/m64173_230219_203920.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 22:49:30",
+    "runwell": "20230218-64173-B01"
+  },
+  "m64180_221212_110123": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20221207_015029/5_E01/m64180_221212_110123.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-27 17:25:33",
+    "runwell": "20221207-64180-E01"
+  },
+  "m64180_221214_074936": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20221214_073547/1_A01/m64180_221214_074936.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-27 17:26:24",
+    "runwell": "20221214-64180-A01"
+  },
+  "m64180_221215_184533": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20221214_073547/2_B01/m64180_221215_184533.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-21 03:14:35",
+    "runwell": "20221214-64180-B01"
+  },
+  "m64180_221217_042108": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20221214_073547/3_C01/m64180_221217_042108.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-21 03:14:49",
+    "runwell": "20221214-64180-C01"
+  },
+  "m64180_221218_152050": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20221214_073547/4_D01/m64180_221218_152050.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "runwell": "20221214-64180-D01"
+  },
+  "m64180_221221_075701": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20221221_075650/1_A01/m64180_221221_075701.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-22 00:49:32",
+    "runwell": "20221221-64180-A01"
+  },
+  "m64180_221221_085620": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20221221_084451/1_A01/m64180_221221_085620.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-27 17:28:15",
+    "runwell": "20221221-64180-A01"
+  },
+  "m64180_221222_182347": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20221221_084451/2_B01/m64180_221222_182347.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-27 17:28:36",
+    "runwell": "20221221-64180-B01"
+  },
+  "m64180_221224_035009": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20221221_084451/3_C01/m64180_221224_035009.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-26 20:46:04",
+    "runwell": "20221221-64180-C01"
+  },
+  "m64180_221225_144723": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20221221_084451/4_D01/m64180_221225_144723.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-27 16:27:38",
+    "runwell": "20221221-64180-D01"
+  },
+  "m64180_221228_032441": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20221228_032430/1_A01/m64180_221228_032441.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-28 11:39:19",
+    "runwell": "20221228-64180-A01"
+  },
+  "m64180_230113_115311": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230113_115303/1_A01/m64180_230113_115311.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-20 23:32:58",
+    "runwell": "20230113-64180-A01"
+  },
+  "m64180_230113_135452": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230113_134124/1_A01/m64180_230113_135452.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-22 04:28:42",
+    "runwell": "20230113-64180-A01"
+  },
+  "m64180_230114_230426": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230113_134124/2_B01/m64180_230114_230426.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-23 22:55:17",
+    "runwell": "20230113-64180-B01"
+  },
+  "m64180_230116_081204": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230113_134124/3_C01/m64180_230116_081204.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-24 20:36:20",
+    "runwell": "20230113-64180-C01"
+  },
+  "m64180_230119_064401": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230119_063246/1_A01/m64180_230119_064401.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:14:08",
+    "runwell": "20230119-64180-A01"
+  },
+  "m64180_230120_154729": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230119_063246/2_B01/m64180_230120_154729.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 17:58:41",
+    "runwell": "20230119-64180-B01"
+  },
+  "m64180_230122_005604": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230119_063246/3_C01/m64180_230122_005604.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:04:35",
+    "runwell": "20230119-64180-C01"
+  },
+  "m64180_230123_100059": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230119_063246/4_D01/m64180_230123_100059.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:19:16",
+    "runwell": "20230119-64180-D01"
+  },
+  "m64180_230125_020536": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230125_015414/1_A01/m64180_230125_020536.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:18:33",
+    "runwell": "20230125-64180-A01"
+  },
+  "m64180_230126_111229": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230125_015414/2_B01/m64180_230126_111229.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:22:10",
+    "runwell": "20230125-64180-B01"
+  },
+  "m64180_230127_203025": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230125_015414/3_C01/m64180_230127_203025.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:23:54",
+    "runwell": "20230125-64180-C01"
+  },
+  "m64180_230129_103246": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230129_102038/1_A01/m64180_230129_103246.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 13:50:05",
+    "runwell": "20230129-64180-A01"
+  },
+  "m64180_230130_194301": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230129_102038/2_B01/m64180_230130_194301.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-02 01:25:15",
+    "runwell": "20230129-64180-B01"
+  },
+  "m64180_230201_045132": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230129_102038/3_C01/m64180_230201_045132.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-03 09:08:04",
+    "runwell": "20230129-64180-C01"
+  },
+  "m64180_230202_135955": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230129_102038/4_D01/m64180_230202_135955.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-04 13:10:46",
+    "runwell": "20230129-64180-D01"
+  },
+  "m64180_230204_044756": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230204_043553/1_A01/m64180_230204_044756.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:43:26",
+    "runwell": "20230204-64180-A01"
+  },
+  "m64180_230205_141426": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230204_043553/2_B01/m64180_230205_141426.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-07 19:35:43",
+    "runwell": "20230204-64180-B01"
+  },
+  "m64180_230206_231653": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230204_043553/3_C01/m64180_230206_231653.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-09 03:28:26",
+    "runwell": "20230204-64180-C01"
+  },
+  "m64180_230210_043348": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230210_043340/1_A01/m64180_230210_043348.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "203427156-04-23 17:28:11",
+    "runwell": "20230210-64180-A01"
+  },
+  "m64180_230210_053555": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230210_052428/1_B01/m64180_230210_053555.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 14:57:29",
+    "runwell": "20230210-64180-B01"
+  },
+  "m64180_230211_163133": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230210_052428/2_C01/m64180_230211_163133.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:28:08",
+    "runwell": "20230210-64180-C01"
+  },
+  "m64180_230213_014819": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230210_052428/3_D01/m64180_230213_014819.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-15 03:38:30",
+    "runwell": "20230210-64180-D01"
+  },
+  "m64180_230214_145650": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230214_144522/1_A01/m64180_230214_145650.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-16 19:02:48",
+    "runwell": "20230214-64180-A01"
+  },
+  "m64180_230216_015214": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230214_144522/2_B01/m64180_230216_015214.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-18 04:29:04",
+    "runwell": "20230214-64180-B01"
+  },
+  "m64180_230217_080116": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230214_144522/3_C01/m64180_230217_080116.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:29:15",
+    "runwell": "20230214-64180-C01"
+  },
+  "m64180_230218_190146": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230214_144522/4_D01/m64180_230218_190146.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:29:45",
+    "runwell": "20230214-64180-D01"
+  },
+  "m64181_221229_025350": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20221229_024113/1_A01/m64181_221229_025350.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2022-12-31 03:17:12",
+    "runwell": "20221229-64181-A01"
+  },
+  "m64181_221230_134836": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20221229_024113/2_B01/m64181_221230_134836.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-11 00:21:41",
+    "runwell": "20221229-64181-B01"
+  },
+  "m64181_230101_004524": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20221229_024113/3_C01/m64181_230101_004524.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-12 11:43:50",
+    "runwell": "20221229-64181-C01"
+  },
+  "m64181_230102_101150": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20221229_024113/4_D01/m64181_230102_101150.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-11 01:44:31",
+    "runwell": "20221229-64181-D01"
+  },
+  "m64181_230103_194127": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20221229_024113/5_E01/m64181_230103_194127.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-14 09:18:29",
+    "runwell": "20221229-64181-E01"
+  },
+  "m64181_230105_080316": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230105_075225/1_A01/m64181_230105_080316.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-07 07:14:15",
+    "runwell": "20230105-64181-A01"
+  },
+  "m64181_230106_171025": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230105_075225/2_B01/m64181_230106_171025.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-20 02:49:01",
+    "runwell": "20230105-64181-B01"
+  },
+  "m64181_230108_022041": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230105_075225/3_C01/m64181_230108_022041.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-20 23:31:42",
+    "runwell": "20230105-64181-C01"
+  },
+  "m64181_230109_112603": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230105_075225/4_D01/m64181_230109_112603.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-14 09:20:32",
+    "runwell": "20230105-64181-D01"
+  },
+  "m64181_230113_095810": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230113_092337/1_A01/m64181_230113_095810.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "runwell": "20230113-64181-A01"
+  },
+  "m64181_230114_204620": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230113_092337/2_B01/m64181_230114_204620.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-23 22:54:09",
+    "runwell": "20230113-64181-B01"
+  },
+  "m64181_230116_055324": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230113_092337/3_C01/m64181_230116_055324.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-24 20:40:04",
+    "runwell": "20230113-64181-C01"
+  },
+  "m64181_230117_150006": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230113_092337/4_D01/m64181_230117_150006.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:14:26",
+    "runwell": "20230113-64181-D01"
+  },
+  "m64181_230119_063443": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230119_061907/1_A01/m64181_230119_063443.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:14:06",
+    "runwell": "20230119-64181-A01"
+  },
+  "m64181_230120_123347": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230119_061907/2_B01/m64181_230120_123347.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:13:16",
+    "runwell": "20230119-64181-B01"
+  },
+  "m64181_230121_233350": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230119_061907/3_C01/m64181_230121_233350.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:16:44",
+    "runwell": "20230119-64181-C01"
+  },
+  "m64181_230123_093220": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230123_092027/1_A01/m64181_230123_093220.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:19:21",
+    "runwell": "20230123-64181-A01"
+  },
+  "m64181_230124_183732": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230123_092027/2_B01/m64181_230124_183732.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:18:34",
+    "runwell": "20230123-64181-B01"
+  },
+  "m64181_230126_034124": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230123_092027/3_C01/m64181_230126_034124.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:18:15",
+    "runwell": "20230123-64181-C01"
+  },
+  "m64181_230127_124540": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230123_092027/4_D01/m64181_230127_124540.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:09:07",
+    "runwell": "20230123-64181-D01"
+  },
+  "m64181_230129_022145": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230129_021041/1_A01/m64181_230129_022145.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-31 18:24:49",
+    "runwell": "20230129-64181-A01"
+  },
+  "m64181_230130_112704": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230129_021041/2_B01/m64181_230130_112704.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-01 16:20:48",
+    "runwell": "20230129-64181-B01"
+  },
+  "m64181_230131_203132": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230129_021041/3_C01/m64181_230131_203132.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-03 01:18:24",
+    "runwell": "20230129-64181-C01"
+  },
+  "m64181_230202_053526": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230129_021041/4_D01/m64181_230202_053526.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-04 09:51:26",
+    "runwell": "20230129-64181-D01"
+  },
+  "m64181_230204_050851": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230204_043724/1_A01/m64181_230204_050851.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:43:26",
+    "runwell": "20230204-64181-A01"
+  },
+  "m64181_230205_110807": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230204_043724/2_B01/m64181_230205_110807.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 09:43:57",
+    "runwell": "20230204-64181-B01"
+  },
+  "m64181_230207_052742": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230207_051551/1_A01/m64181_230207_052742.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-09 04:06:23",
+    "runwell": "20230207-64181-A01"
+  },
+  "m64181_230208_143415": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230207_051551/2_B01/m64181_230208_143415.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-12 08:41:04",
+    "runwell": "20230207-64181-B01"
+  },
+  "m64181_230209_234214": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230207_051551/3_C01/m64181_230209_234214.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 14:57:29",
+    "runwell": "20230207-64181-C01"
+  },
+  "m64181_230211_084819": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230207_051551/4_D01/m64181_230211_084819.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:28:09",
+    "runwell": "20230207-64181-D01"
+  },
+  "m64181_230212_175212": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230207_051551/5_E01/m64181_230212_175212.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:28:38",
+    "runwell": "20230207-64181-E01"
+  },
+  "m64181_230214_094542": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230214_093024/1_A01/m64181_230214_094542.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-16 12:22:18",
+    "runwell": "20230214-64181-A01"
+  },
+  "m64181_230215_184916": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230214_093024/2_B01/m64181_230215_184916.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-17 21:27:26",
+    "runwell": "20230214-64181-B01"
+  },
+  "m64181_230217_035239": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230214_093024/3_C01/m64181_230217_035239.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-19 07:55:38",
+    "runwell": "20230214-64181-C01"
+  },
+  "m64181_230218_135419": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230218_134000/1_A01/m64181_230218_135419.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-21 16:29:44",
+    "runwell": "20230218-64181-A01"
+  },
+  "m64181_230219_231309": {
+    "code": 1,
+    "status": "only_subreads",
+    "subreads": "/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64181/r64181_20230218_134000/2_B01/m64181_230219_231309.subreads.bam",
+    "hifi_reads": "",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-02-22 02:00:32",
+    "runwell": "20230218-64181-B01"
+  }
+}

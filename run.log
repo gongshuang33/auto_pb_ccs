@@ -1,0 +1,1405 @@
+start: mgr Wed Mar 1 18:00:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 18:00:37 CST 2023
+------------------------------------------------------------------------------------
+rm: cannot remove ‘logs/WRITE’: No such file or directory
+start: mgr Wed Mar 1 18:30:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 18:30:37 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 18:30:37 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 18:31:13 CST 2023
+------------------------------------------------------------------------------------
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+start: mgr Wed Mar 1 19:00:36 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_pre_v2.py start
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 19:01:11 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 19:01:12 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_pre_v2.py start
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 19:01:48 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 19:01:48 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 19:02:24 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 19:30:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 19:30:38 CST 2023
+------------------------------------------------------------------------------------
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+start: mgr Wed Mar 1 19:31:26 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 19:32:02 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 19:32:03 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 19:32:39 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 19:32:39 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 19:33:15 CST 2023
+------------------------------------------------------------------------------------
+PB_data.json may be writing. Wait 5s...
+start: mgr Wed Mar 1 20:00:06 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 20:00:43 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 20:00:48 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 20:01:24 CST 2023
+------------------------------------------------------------------------------------
+PB_data.json may be writing. Wait 5s...
+start: mgr Wed Mar 1 20:02:07 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 20:02:43 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 20:02:44 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 20:03:20 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 20:03:20 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 20:03:56 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 20:30:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 20:30:39 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 20:30:43 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 20:31:19 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 20:31:24 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 20:32:00 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 20:32:43 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 20:33:19 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 20:33:20 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 20:33:56 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 20:33:56 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 20:34:32 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:00:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:00:38 CST 2023
+------------------------------------------------------------------------------------
+rm: cannot remove ‘logs/WRITE’: No such file or directory
+start: mgr Wed Mar 1 21:00:39 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:01:15 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:01:19 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:01:55 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:02:00 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:02:36 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:03:19 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:03:55 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:03:56 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:04:31 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:04:32 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:05:08 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:30:01 CST 2023
+find_new_bam.sh start
+/pfs/Sequencing/Pacbio/Sequel_ii/sequel_ii_r64180/r64180_20230301_130116/1_A01/m64180_230301_130123.subreads.bam
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:30:39 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:30:43 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:31:19 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:31:20 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:31:56 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:32:00 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:32:36 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:32:41 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:33:16 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:33:55 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:34:31 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:34:31 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:35:07 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 21:35:08 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 21:35:43 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:00:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+start: mgr Wed Mar 1 22:00:39 CST 2023
+find_new_bam.sh start
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:00:39 CST 2023
+------------------------------------------------------------------------------------
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:01:14 CST 2023
+------------------------------------------------------------------------------------
+rm: cannot remove ‘logs/WRITE’: No such file or directory
+start: mgr Wed Mar 1 22:01:19 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:01:55 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:01:56 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:02:32 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:02:36 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:03:12 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:03:16 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:03:52 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:04:31 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:05:07 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:05:07 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:05:43 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:05:43 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:06:19 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:30:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:30:39 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:30:44 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:31:20 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:31:25 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:32:01 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:32:05 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:32:41 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:32:42 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:33:17 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:33:22 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:33:58 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:34:02 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:34:38 CST 2023
+------------------------------------------------------------------------------------
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+start: mgr Wed Mar 1 22:35:27 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:36:03 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:36:03 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+PB_data.json may be writing. Wait 5s...
+data_run.py start
+PB_data.json may be writing. Wait 5s...
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:36:39 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 22:36:44 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 22:37:20 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:00:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:00:39 CST 2023
+------------------------------------------------------------------------------------
+rm: cannot remove ‘logs/WRITE’: No such file or directory
+start: mgr Wed Mar 1 23:00:39 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:01:15 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:01:20 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:01:56 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:02:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:02:36 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:02:41 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:03:17 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:03:17 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:03:53 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:03:58 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:04:34 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:04:38 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:05:14 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:06:03 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:06:39 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:06:39 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:07:15 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:07:20 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:07:56 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:30:01 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:30:39 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:30:39 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:31:15 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:31:15 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:31:51 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:31:56 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:32:31 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:32:36 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:33:12 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:33:17 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:33:53 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:33:53 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:34:29 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:34:34 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:35:10 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:35:14 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:35:50 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:36:39 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:37:14 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:37:15 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:37:51 CST 2023
+------------------------------------------------------------------------------------
+start: mgr Wed Mar 1 23:37:56 CST 2023
+find_new_bam.sh start
+find_new_bam.sh end
+data_pre_v2.py start
+Traceback (most recent call last):
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 69, in <module>
+    data = pre_ccs(data, chunk_num, outpath)
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 26, in pre_ccs
+    slist = pre_work(m, workdir, db[m]['subreads'], chunk_num, m[-6:], db[m]['runwell'])
+  File "/home/gongshuang/pb/core/data_run/data_pre_v2.py", line 17, in pre_work
+    open(workplace + '/run_ccs.sh', 'w').write(run_ccs_sh)
+FileNotFoundError: [Errno 2] No such file or directory: '/pfs/Sequencing/Nanopore.temp/check/PB_CCS/auto/20230301-64180-A01-Sample Name/run_ccs.sh'
+data_pre_v2.py end
+data_run.py start
+qsub_run
+Program will qsub these cells: []
+qw num: False
+data_run.py end
+end: mgr Wed Mar 1 23:38:32 CST 2023
+------------------------------------------------------------------------------------

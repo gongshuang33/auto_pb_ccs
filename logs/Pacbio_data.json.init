@@ -1,0 +1,35 @@
+{ 
+  "m64446e_230110_151103": {
+    "code": 1,
+    "status": "only_hifi",
+    "subreads": "",
+    "hifi_reads": "/pfs/Sequencing/Pacbio/Sequel_iie/sequel_iie_r64446e/r64446e_20230106_105416/4_D01/m64446e_230110_151103.hifi_reads.bam",
+    "subreads_mtime": "",
+    "hifi_mtime": "",
+    "ccs": {
+      "code": 0,
+      "path": "",
+      "chunk_num": 0,
+      "success": [],
+      "running": [],
+      "error": []
+    },
+    "merge": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "stat": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "upload": {
+      "code": 0,
+      "path": "",
+      "info": ""
+    },
+    "hifi_ctime": "2023-01-18 01:54:34",
+    "runwell": "20230106-64446e-D01"
+  }
+}
